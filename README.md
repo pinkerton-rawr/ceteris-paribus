@@ -1,2 +1,2 @@
 # ceteris-paribus
-Beginner's portfolio featuring all manner of randomness
+A portfolio of programming for data analytics and visualiztion
